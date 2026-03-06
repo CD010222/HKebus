@@ -12,6 +12,6 @@ Interactive Map : [Click Here](./B.md)
 
 Interactive Map : [Click Here](./C.md)
 
-## [Map of China Cities](./china-city.md)
+## [Map of ChinaEBus](./china-city.md)
 
-Interactive Map of China Cities with NAME_2 field interaction
+Interactive Map of ChinaEBus

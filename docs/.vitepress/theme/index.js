@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import './client'
 import { createPinia } from 'pinia'
 
 /** @type {import('vitepress').Theme} */
@@ -23,7 +24,5 @@ export default {
     // for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
     //   app.component(key, component)
     // } // 全局注册 ElementPlusIconsVue
-
-
   }
 }
